@@ -1,2 +1,2 @@
-# Django-API-Escola
-Uma API em Django com Rest Framework construída em conjunto com os cursos da alura "API com Django".
+# Django-API-School
+An API in Django with Rest Framework built together with the courses from Alura "API with Django".
